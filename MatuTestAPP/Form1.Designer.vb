@@ -29,6 +29,7 @@ Partial Class Form1
         Me.Label5 = New System.Windows.Forms.Label()
         Me.Label6 = New System.Windows.Forms.Label()
         Me.Label7 = New System.Windows.Forms.Label()
+        Me.Label8 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'Label1
@@ -94,11 +95,21 @@ Partial Class Form1
         Me.Label7.TabIndex = 6
         Me.Label7.Text = "TAOUFIK TEST3"
         '
+        'Label8
+        '
+        Me.Label8.AutoSize = True
+        Me.Label8.Location = New System.Drawing.Point(112, 137)
+        Me.Label8.Name = "Label8"
+        Me.Label8.Size = New System.Drawing.Size(111, 20)
+        Me.Label8.TabIndex = 7
+        Me.Label8.Text = "TAOUFIK TEST3"
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.Controls.Add(Me.Label8)
         Me.Controls.Add(Me.Label7)
         Me.Controls.Add(Me.Label6)
         Me.Controls.Add(Me.Label5)
@@ -120,4 +131,5 @@ Partial Class Form1
     Friend WithEvents Label5 As Label
     Friend WithEvents Label6 As Label
     Friend WithEvents Label7 As Label
+    Friend WithEvents Label8 As Label
 End Class
