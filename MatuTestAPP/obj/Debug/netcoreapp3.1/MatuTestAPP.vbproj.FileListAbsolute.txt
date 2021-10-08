@@ -1,0 +1,16 @@
+D:\RepoMatu\MatuTestAPP\MatuTestAPP\obj\Debug\netcoreapp3.1\MatuTestAPP.vbproj.AssemblyReference.cache
+D:\RepoMatu\MatuTestAPP\MatuTestAPP\obj\Debug\netcoreapp3.1\MatuTestAPP.Form1.resources
+D:\RepoMatu\MatuTestAPP\MatuTestAPP\obj\Debug\netcoreapp3.1\MatuTestAPP.vbproj.GenerateResource.cache
+D:\RepoMatu\MatuTestAPP\MatuTestAPP\obj\Debug\netcoreapp3.1\MatuTestAPP.GeneratedMSBuildEditorConfig.editorconfig
+D:\RepoMatu\MatuTestAPP\MatuTestAPP\obj\Debug\netcoreapp3.1\MatuTestAPP.AssemblyInfoInputs.cache
+D:\RepoMatu\MatuTestAPP\MatuTestAPP\obj\Debug\netcoreapp3.1\MatuTestAPP.AssemblyInfo.vb
+D:\RepoMatu\MatuTestAPP\MatuTestAPP\obj\Debug\netcoreapp3.1\MatuTestAPP.vbproj.CoreCompileInputs.cache
+D:\RepoMatu\MatuTestAPP\MatuTestAPP\bin\Debug\netcoreapp3.1\MatuTestAPP.exe
+D:\RepoMatu\MatuTestAPP\MatuTestAPP\bin\Debug\netcoreapp3.1\MatuTestAPP.deps.json
+D:\RepoMatu\MatuTestAPP\MatuTestAPP\bin\Debug\netcoreapp3.1\MatuTestAPP.runtimeconfig.json
+D:\RepoMatu\MatuTestAPP\MatuTestAPP\bin\Debug\netcoreapp3.1\MatuTestAPP.runtimeconfig.dev.json
+D:\RepoMatu\MatuTestAPP\MatuTestAPP\bin\Debug\netcoreapp3.1\MatuTestAPP.dll
+D:\RepoMatu\MatuTestAPP\MatuTestAPP\bin\Debug\netcoreapp3.1\MatuTestAPP.pdb
+D:\RepoMatu\MatuTestAPP\MatuTestAPP\obj\Debug\netcoreapp3.1\MatuTestAPP.dll
+D:\RepoMatu\MatuTestAPP\MatuTestAPP\obj\Debug\netcoreapp3.1\MatuTestAPP.pdb
+D:\RepoMatu\MatuTestAPP\MatuTestAPP\obj\Debug\netcoreapp3.1\MatuTestAPP.genruntimeconfig.cache
