@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RepoMatu\\MatuTestAPP\\MatuTestAPP\\MatuTestAPP.vbproj": {}
+    "D:\\2022\\Formations\\DevOps\\jenkins\\tp1\\TestAppMatu\\MatuTestAPP\\MatuTestAPP.vbproj": {}
   },
   "projects": {
-    "D:\\RepoMatu\\MatuTestAPP\\MatuTestAPP\\MatuTestAPP.vbproj": {
+    "D:\\2022\\Formations\\DevOps\\jenkins\\tp1\\TestAppMatu\\MatuTestAPP\\MatuTestAPP.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RepoMatu\\MatuTestAPP\\MatuTestAPP\\MatuTestAPP.vbproj",
+        "projectUniqueName": "D:\\2022\\Formations\\DevOps\\jenkins\\tp1\\TestAppMatu\\MatuTestAPP\\MatuTestAPP.vbproj",
         "projectName": "MatuTestAPP",
-        "projectPath": "D:\\RepoMatu\\MatuTestAPP\\MatuTestAPP\\MatuTestAPP.vbproj",
-        "packagesPath": "C:\\Users\\Carmelo\\.nuget\\packages\\",
-        "outputPath": "D:\\RepoMatu\\MatuTestAPP\\MatuTestAPP\\obj\\",
+        "projectPath": "D:\\2022\\Formations\\DevOps\\jenkins\\tp1\\TestAppMatu\\MatuTestAPP\\MatuTestAPP.vbproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "D:\\2022\\Formations\\DevOps\\jenkins\\tp1\\TestAppMatu\\MatuTestAPP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Carmelo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
